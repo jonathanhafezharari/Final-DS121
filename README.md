@@ -1,0 +1,6 @@
+# Final-DS121
+This study aimed to predict if a person is a smoker or not based on their Body Mass Index (BMI) and insurance cost. To accomplish this, I used a combination of machine learning algorithms including K-means Clustering, Regression Trees, Random Forest, and Linear Regression. The data for this study was taken from a dataset on Kaggle called "insurance" and consisted of 1338 rows, each representing a different person and their respective values for each variable.
+
+The algorithms used in this study work by identifying patterns and trends in the data, allowing for accurate predictions. The accuracy of each algorithm was measured using the Mean Square Error and the R-squared, with the goal of finding the best algorithm that had the lowest mean square error and the highest R-squared.
+
+The importance of this study lies in understanding how factors such as insurance cost and BMI can be used to predict if a person smokes or not. This information can then be used to develop better health and insurance policies, as well as to educate individuals on the impact of their lifestyle choices on their health and insurance costs. Additionally, the study provides a deeper understanding of the different machine learning algorithms and how they can be used to analyze data and make predictions.
